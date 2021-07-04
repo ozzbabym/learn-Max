@@ -1,0 +1,35 @@
+.colorBox1 {
+    width: 50px;
+    height: 50px;
+    background: #008080;
+    border-radius: 10px;
+}
+.colorBox2 {
+    width: 100px;
+    height:100px;
+    background: #FFFF00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.colorBox3 {
+    width: 70px;
+    height: 70px;
+    background: url('https://media.ruralradio.co/wordpress/2018/02/Pan-Pizza-1-1024x769.jpg') no-repeat center;
+    background-size: 100%;
+}
+
+.colorBox3 b {
+    color: white;
+}
+.colorBox3 div {
+    margin-top: 20px;
+}
+
+.wrapper {
+    background: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 200px;
+}
